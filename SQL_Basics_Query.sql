@@ -1,6 +1,6 @@
 -- Some Basic SQL Begineer's Queries.
 
---CREATE TABLE EmployeeDemographics
+--CREATE TABLE EmployeeDemographics -- This Query is use to create tables.
 --(EmployeeID int,
 --FirstName varchar(50),
 --LastName varchar(50),
@@ -14,7 +14,7 @@
 --Salary int
 --);
 
---INSERT INTO EmployeeDemographics VALUES
+--INSERT INTO EmployeeDemographics VALUES -- This query is use to INSERT Values into existing tables.
 --(1001, 'Jim', 'Halpert', 30, 'Male');
 
 --INSERT INTO EmployeeDemographics VALUES
