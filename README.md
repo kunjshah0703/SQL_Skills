@@ -20,3 +20,5 @@ Please follow SQL_Joins_Queries.sql code file to learn different types of Join i
 For Union and Union all pratise I have added one more table. You can find it's code in SQL_Union_Queries.
 
 ![image](https://user-images.githubusercontent.com/72154374/201278960-479f56a4-5f24-425d-af4c-a8d60af31123.png)
+
+Please find use of CASE in SQL Queries. Follow file SQL_CASE_Queries.
