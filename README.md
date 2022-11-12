@@ -25,3 +25,4 @@ Please find use of CASE in SQL Queries. Follow file SQL_CASE_Queries.
 
 Please find use case of HAVING in SQL Queries. Follow file SQL_HAVING_Queries.
 
+Please find use case of UPDATE/DELETE in SQL Queries. Follow file SQL_UPDDEL_Queries.
