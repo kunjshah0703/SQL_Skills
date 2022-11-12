@@ -22,3 +22,6 @@ For Union and Union all pratise I have added one more table. You can find it's c
 ![image](https://user-images.githubusercontent.com/72154374/201278960-479f56a4-5f24-425d-af4c-a8d60af31123.png)
 
 Please find use of CASE in SQL Queries. Follow file SQL_CASE_Queries.
+
+Please find use case of HAVING in SQL Queries. Follow file SQL_HAVING_Queries.
+
