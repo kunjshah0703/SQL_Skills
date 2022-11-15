@@ -27,6 +27,8 @@ Please find use case of HAVING in SQL Queries. Follow file SQL_HAVING_Queries.
 
 Please find use case of UPDATE/DELETE in SQL Queries. Follow file SQL_UPDDEL_Queries.
 
-Please finf use case of ALIASING in SQL. Follow file SQL_Aliasing_Queries.
+Please find use case of ALIASING in SQL. Follow file SQL_Aliasing_Queries.
 
-Please finf use case of PARTITION BY in SQL. Follow file SQL_Partionby_Queries.
+Please find use case of PARTITION BY in SQL. Follow file SQL_Partionby_Queries.
+
+Please find use case of Common Table Expressions in SQL. Follow file SQL_CTE_Queries.
