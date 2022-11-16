@@ -32,3 +32,5 @@ Please find use case of ALIASING in SQL. Follow file SQL_Aliasing_Queries.
 Please find use case of PARTITION BY in SQL. Follow file SQL_Partionby_Queries.
 
 Please find use case of Common Table Expressions in SQL. Follow file SQL_CTE_Queries.
+
+Please find use case of TEMPORARY TABLES in SQL. Folloiw file SQL_temptable_Queries.
