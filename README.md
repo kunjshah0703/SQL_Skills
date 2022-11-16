@@ -34,3 +34,9 @@ Please find use case of PARTITION BY in SQL. Follow file SQL_Partionby_Queries.
 Please find use case of Common Table Expressions in SQL. Follow file SQL_CTE_Queries.
 
 Please find use case of TEMPORARY TABLES in SQL. Folloiw file SQL_temptable_Queries.
+
+For demonstrating String functions in SQL I have created a new tabloe name "EmployeeErrors".
+
+![image](https://user-images.githubusercontent.com/72154374/202092238-30a148f1-0d38-424f-b03f-f7f1a8841e87.png)
+
+
