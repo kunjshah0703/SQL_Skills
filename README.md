@@ -39,4 +39,4 @@ For demonstrating String functions in SQL I have created a new tabloe name "Empl
 
 ![image](https://user-images.githubusercontent.com/72154374/202092238-30a148f1-0d38-424f-b03f-f7f1a8841e87.png)
 
-
+Please find use case of STORED PROCEDURES in SQL. Folloiw file SQL_Storedprocedure_Queries.
