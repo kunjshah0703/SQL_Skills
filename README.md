@@ -42,3 +42,9 @@ For demonstrating String functions in SQL I have created a new tabloe name "Empl
 Please find use case of STORED PROCEDURES in SQL. Follow file SQL_Storedprocedure_Queries.
 
 Please find use case of SUBQUERIES in SQL. Follow file SQL_SubQuery_Queries.
+
+Pivoting and Unpivoting of Data. Given data : ![image](https://user-images.githubusercontent.com/72154374/204491106-0c737381-3667-4a97-87ef-3b0c89f26997.png)
+
+Output should be : ![image](https://user-images.githubusercontent.com/72154374/204491239-84a5cf31-f1ff-4f0b-abc3-d91bec5b7f1d.png)
+
+Please find solution in Pivot_Unpivot_SQL file.
